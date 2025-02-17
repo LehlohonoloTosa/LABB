@@ -7,5 +7,4 @@ Assignment report
 6. create a new branch feature/student/details
 6. filled in the html file with student details, add then commit
 7. filled in the txt file with student details, add then commit
-8. filled the report add then commit
-9. merge the branch to the main
+8. filled the report add then commit and pushed to github
